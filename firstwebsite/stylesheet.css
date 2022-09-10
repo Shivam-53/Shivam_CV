@@ -1,0 +1,79 @@
+*{
+    margin: 0PX;
+}
+body{
+    background-color:white;
+    
+
+}
+
+.Shiv{
+    text-align: center;
+}  
+
+.FIRST{
+    background-color: #EAF6F6;
+    height: 600px;
+}
+img{
+    position: relative;
+    left: 326px;
+    top: 46px;
+}
+
+.HELLO{
+    background-color: #fff;
+    width: 50%;
+    height: 600px;
+}
+.MEOW{
+    background-color:#9FC9F3;
+    width: auto;
+     height: 600px;
+}
+.CLOUD{
+    position: relative;
+    left: 900px;
+}
+.cloud1{
+    position: relative;
+    left: 445px;
+    top: -147px;
+}
+.Shivam{
+    width: 250px;
+    height: 300px;
+    position: relative;
+    left: 606px;
+    top: 2px;
+    border: 10px solid black;
+    border-radius: 143px;
+}
+.text{
+    display: inline-block;
+    /* position: relative;
+    left: 50px; */
+}
+.box{
+    width: 200px;
+    text-align: center;
+    display: block;
+    position: relative;
+    left: 656px;
+    border: 1px solid black;
+    border-radius: 84px;
+}
+.box1{
+    position: relative;
+    left: 738px;
+    top:72px;
+}
+.box2{
+    position: relative;
+    left: 547px;
+    top:87px ;
+}
+.box3{
+    position: relative;
+    top: 153px;
+}
